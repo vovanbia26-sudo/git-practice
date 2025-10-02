@@ -13,3 +13,10 @@ Kỹ năng:
 - Python
 - Git
 - HTML/CSS
+
+Kế hoạch học tập:
+1. Học Git cơ bản và workflow.
+2. Luyện tập merge và resolve conflict.
+3. Thực hành stash và revert.
+4. Ôn tập công cụ GitHub.
+5. Làm báo cáo nhóm.
