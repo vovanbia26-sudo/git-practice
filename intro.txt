@@ -1,1 +1,15 @@
-Giới thiệu cá nhân
+Giới thiệu cá nhân:
+Tôi tên là VO VAN BIA
+Sinh viên ngành Công nghệ thông tin.
+Hiện đang học môn Hệ thống phân tán.
+Đam mê lập trình và DevOps.
+
+Sở thích:
+- Lập trình
+- Đạp xe
+- Đọc sách
+
+Kỹ năng:
+- Python
+- Git
+- HTML/CSS
