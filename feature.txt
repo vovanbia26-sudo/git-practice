@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo
+1. Cho phép người dùng nhận thông báo khi có thay đổi dữ liệu.
+2. Hỗ trợ nhiều kênh thông báo: email, SMS, in-app.
+3. Có thể bật/tắt từng loại thông báo.
+4. Thông báo được lưu lại trong lịch sử.
+5. Quản trị viên có thể xem log toàn bộ thông báo.
